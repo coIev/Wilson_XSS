@@ -26,9 +26,9 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/menkrep1337/wilsonxss.py
-chmod 755 -R wilsonxss
-cd wilsonxss
+git clone https://github.com/jongmartinez/Wilson_XSS
+chmod 755 -R Wilson_XSS
+cd Wilson_XSS
 python3 wilsonxss.py --help 
 ```
 ## Usage
